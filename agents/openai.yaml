@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase to GPT Image 2 Prompt"
+  short_description: "Generate structured image prompts from codebases"
+  default_prompt: "Use $codebase-to-gpt-image-2-prompt to analyze this repository and generate a GPT Image 2 prompt JSON."
